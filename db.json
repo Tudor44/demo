@@ -12,6 +12,8 @@
     "name": "typicode"
   },
   "getSampleContent":{
-    "value": "bnl"
+    "data":{
+      "value": "bnl"
+    }
   }
 }
